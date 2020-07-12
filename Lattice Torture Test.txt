@@ -1,0 +1,303 @@
+#Lattice Torture Test
+0% done, 04:29:27 remaining.
+Completed time 7:05:11 pm.
+Printing at Z=-0.1.
+Bed 60.19/60.0, Extruder 216.35/215.0.
+0% done, 04:16:33 remaining.
+Completed time 7:05:11 pm.
+Printing at Z=2.4.
+Bed 60.14/60.0, Extruder 209.69/210.0.
+0% done, 04:09:09 remaining.
+Completed time 7:05:11 pm.
+Printing at Z=5.0.
+Bed 60.23/60.0, Extruder 210.04/210.0.
+0% done, 04:08:56 remaining.
+Completed time 7:05:11 pm.
+Printing at Z=4.4.
+Bed 59.84/60.0, Extruder 209.92/210.0.
+1% done, 04:01:33 remaining.
+Completed time 7:05:11 pm.
+Printing at Z=5.8.
+Bed 59.45/60.0, Extruder 210.23/210.0.
+2% done, 25:50:32 remaining.
+Completed time 4:58:40 pm Tomorrow.
+Printing at Z=9.4.
+Bed 60.23/60.0, Extruder 209.84/210.0.
+2% done, 25:15:05 remaining.
+Completed time 4:23:32 pm Tomorrow.
+Printing at Z=8.8.
+Bed 59.66/60.0, Extruder 210.08/210.0.
+3% done, 18:24:16 remaining.
+Completed time 9:38:18 am Tomorrow.
+Printing at Z=13.8.
+Bed 60.14/60.0, Extruder 210.0/210.0.
+3% done, 18:11:29 remaining.
+Completed time 9:25:47 am Tomorrow.
+Printing at Z=13.2.
+Bed 59.95/60.0, Extruder 209.96/210.0.
+4% done, 15:16:26 remaining.
+Completed time 6:35:07 am Tomorrow.
+Printing at Z=16.4.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+6% done, 12:49:26 remaining.
+Completed time 4:12:05 am Tomorrow.
+Printing at Z=18.2.
+Bed 60.19/60.0, Extruder 209.92/210.0.
+6% done, 12:43:03 remaining.
+Completed time 4:05:55 am Tomorrow.
+Printing at Z=17.6.
+Bed 60.12/60.0, Extruder 210.08/210.0.
+9% done, 09:17:30 remaining.
+Completed time 12:51:13 am Tomorrow.
+Printing at Z=22.2.
+Bed 59.64/60.0, Extruder 210.0/210.0.
+10% done, 09:10:04 remaining.
+Completed time 12:44:26 am Tomorrow.
+Printing at Z=22.6.
+Bed 60.19/60.0, Extruder 209.96/210.0.
+10% done, 09:07:26 remaining.
+Completed time 12:42:01 am Tomorrow.
+Printing at Z=22.0.
+Bed 60.14/60.0, Extruder 209.96/210.0.
+14% done, 07:28:37 remaining.
+Completed time 11:15:14 pm.
+Printing at Z=27.0.
+Bed 60.14/60.0, Extruder 209.96/210.0.
+14% done, 07:27:20 remaining.
+Completed time 11:14:10 pm.
+Printing at Z=26.4.
+Bed 59.38/60.0, Extruder 210.12/210.0.
+14% done, 07:16:10 remaining.
+Completed time 11:04:54 pm.
+Printing at Z=27.6.
+Bed 59.44/60.0, Extruder 209.92/210.0.
+18% done, 06:27:12 remaining.
+Completed time 10:26:18 pm.
+Printing at Z=31.4.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+18% done, 06:26:16 remaining.
+Completed time 10:25:37 pm.
+Printing at Z=30.8.
+Bed 59.79/60.0, Extruder 210.08/210.0.
+19% done, 06:10:39 remaining.
+Completed time 10:14:24 pm.
+Printing at Z=33.2.
+Bed 60.37/60.0, Extruder 210.0/210.0.
+21% done, 05:51:06 remaining.
+Completed time 10:00:22 pm.
+Printing at Z=35.8.
+Bed 60.19/60.0, Extruder 209.92/210.0.
+21% done, 05:50:34 remaining.
+Completed time 10:00:03 pm.
+Printing at Z=35.2.
+Bed 59.74/60.0, Extruder 210.04/210.0.
+24% done, 05:23:53 remaining.
+Completed time 9:42:40 pm.
+Printing at Z=38.4.
+Bed 60.19/60.0, Extruder 210.04/210.0.
+27% done, 05:04:30 remaining.
+Completed time 9:30:41 pm.
+Printing at Z=40.2.
+Bed 60.09/60.0, Extruder 210.04/210.0.
+27% done, 05:03:53 remaining.
+Completed time 9:30:17 pm.
+Printing at Z=39.6.
+Bed 60.14/60.0, Extruder 209.92/210.0.
+29% done, 04:46:48 remaining.
+Completed time 9:20:37 pm.
+Printing at Z=41.8.
+Bed 59.66/60.0, Extruder 210.04/210.0.
+33% done, 04:22:43 remaining.
+Completed time 9:08:38 pm.
+Printing at Z=44.6.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+33% done, 04:22:17 remaining.
+Completed time 9:08:26 pm.
+Printing at Z=44.0.
+Bed 60.14/60.0, Extruder 210.04/210.0.
+34% done, 04:17:22 remaining.
+Completed time 9:06:12 pm.
+Printing at Z=45.2.
+Bed 59.38/60.0, Extruder 210.0/210.0.
+Ender 3 OctoPrint
+39% done, 03:51:44 remaining.
+Completed time 8:55:36 pm.
+Printing at Z=48.4.
+Bed 60.19/60.0, Extruder 210.04/210.0.
+40% done, 03:47:20 remaining.
+Completed time 8:53:57 pm.
+Printing at Z=49.0.
+Bed 59.38/60.0, Extruder 210.2/210.0.
+40% done, 03:46:58 remaining.
+Completed time 8:53:48 pm.
+Printing at Z=48.4.
+Bed 60.19/60.0, Extruder 209.88/210.0.
+44% done, 03:28:16 remaining.
+Completed time 8:47:09 pm.
+Printing at Z=51.6.
+Bed 59.47/60.0, Extruder 210.35/210.0.
+46% done, 03:18:50 remaining.
+Completed time 8:44:25 pm.
+Printing at Z=53.4.
+Bed 60.09/60.0, Extruder 209.96/210.0.
+46% done, 03:18:33 remaining.
+Completed time 8:44:20 pm.
+Printing at Z=52.8.
+Bed 60.19/60.0, Extruder 209.92/210.0.
+49% done, 03:06:16 remaining.
+Completed time 8:40:12 pm.
+Printing at Z=56.4.
+Bed 60.28/60.0, Extruder 210.0/210.0.
+50% done, 03:00:29 remaining.
+Completed time 8:38:46 pm.
+Printing at Z=57.8.
+Bed 60.14/60.0, Extruder 210.0/210.0.
+50% done, 03:00:13 remaining.
+Completed time 8:38:43 pm.
+Printing at Z=57.2.
+Bed 60.09/60.0, Extruder 209.96/210.0.
+54% done, 02:45:43 remaining.
+Completed time 8:34:40 pm.
+Printing at Z=60.2.
+Bed 60.14/60.0, Extruder 210.08/210.0.
+57% done, 02:33:28 remaining.
+Completed time 8:31:28 pm.
+Printing at Z=62.2.
+Bed 60.19/60.0, Extruder 210.04/210.0.
+57% done, 02:33:10 remaining.
+Completed time 8:31:24 pm.
+Printing at Z=61.6.
+Bed 59.64/60.0, Extruder 210.08/210.0.
+59% done, 02:25:29 remaining.
+Completed time 8:29:29 pm.
+Printing at Z=63.4.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+64% done, 02:07:15 remaining.
+Completed time 8:25:30 pm.
+Printing at Z=66.6.
+Bed 60.28/60.0, Extruder 210.0/210.0.
+64% done, 02:06:58 remaining.
+Completed time 8:25:26 pm.
+Printing at Z=66.0.
+Bed 60.09/60.0, Extruder 210.16/210.0.
+64% done, 02:06:18 remaining.
+Completed time 8:25:17 pm.
+Printing at Z=66.6.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+Ender 3 OctoPrint
+69% done, 01:47:46 remaining.
+Completed time 8:21:47 pm.
+Printing at Z=69.8.
+Bed 60.37/60.0, Extruder 209.96/210.0.
+71% done, 01:41:33 remaining.
+Completed time 8:20:43 pm.
+Printing at Z=71.0.
+Bed 60.19/60.0, Extruder 209.92/210.0.
+71% done, 01:41:18 remaining.
+Completed time 8:20:41 pm.
+Printing at Z=70.4.
+Bed 60.28/60.0, Extruder 209.96/210.0.
+74% done, 01:29:56 remaining.
+Completed time 8:19:02 pm.
+Printing at Z=73.2.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+76% done, 01:23:53 remaining.
+Completed time 8:18:21 pm.
+Printing at Z=75.4.
+Bed 59.36/60.0, Extruder 209.92/210.0.
+76% done, 01:23:36 remaining.
+Completed time 8:18:17 pm.
+Printing at Z=74.8.
+Bed 60.19/60.0, Extruder 209.92/210.0.
+79% done, 01:12:43 remaining.
+Completed time 8:16:50 pm.
+Printing at Z=79.2.
+Bed 59.35/60.0, Extruder 209.96/210.0.
+79% done, 01:11:16 remaining.
+Completed time 8:16:38 pm.
+Printing at Z=79.8.
+Bed 60.32/60.0, Extruder 210.04/210.0.
+79% done, 01:11:01 remaining.
+Completed time 8:16:36 pm.
+Printing at Z=79.2.
+Bed 59.79/60.0, Extruder 209.96/210.0.
+83% done, 00:56:47 remaining.
+Completed time 8:14:35 pm.
+Printing at Z=84.2.
+Bed 60.23/60.0, Extruder 210.0/210.0.
+83% done, 00:56:33 remaining.
+Completed time 8:14:34 pm.
+Printing at Z=83.6.
+Bed 59.69/60.0, Extruder 210.0/210.0.
+84% done, 00:55:15 remaining.
+Completed time 8:14:22 pm.
+Printing at Z=84.6.
+Bed 59.41/60.0, Extruder 209.96/210.0.
+88% done, 00:42:14 remaining.
+Completed time 8:12:36 pm.
+Printing at Z=88.6.
+Bed 59.53/60.0, Extruder 209.92/210.0.
+88% done, 00:41:59 remaining.
+Completed time 8:12:34 pm.
+Printing at Z=88.0.
+Bed 60.46/60.0, Extruder 209.92/210.0.
+89% done, 00:37:53 remaining.
+Completed time 8:12:01 pm.
+Printing at Z=89.8.
+Bed 60.14/60.0, Extruder 209.84/210.0.
+92% done, 00:27:52 remaining.
+Completed time 8:10:48 pm.
+Printing at Z=93.0.
+Bed 60.32/60.0, Extruder 209.96/210.0.
+92% done, 00:27:37 remaining.
+Completed time 8:10:45 pm.
+Printing at Z=92.4.
+Bed 60.19/60.0, Extruder 209.84/210.0.
+93% done, 00:22:23 remaining.
+Completed time 8:11:32 pm.
+Printing at Z=96.6.
+Bed 60.19/60.0, Extruder 210.04/210.0.
+94% done, 00:21:32 remaining.
+Completed time 8:11:48 pm.
+Printing at Z=97.4.
+Bed 60.19/60.0, Extruder 210.04/210.0.
+94% done, 00:21:22 remaining.
+Completed time 8:11:52 pm.
+Printing at Z=96.8.
+Bed 59.95/60.0, Extruder 210.08/210.0.
+95% done, 00:16:53 remaining.
+Completed time 8:13:29 pm.
+Printing at Z=101.8.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+95% done, 00:16:44 remaining.
+Completed time 8:13:33 pm.
+Printing at Z=101.2.
+Bed 59.87/60.0, Extruder 210.04/210.0.
+96% done, 00:12:07 remaining.
+Completed time 8:14:59 pm.
+Printing at Z=106.2.
+Bed 60.28/60.0, Extruder 209.84/210.0.
+97% done, 00:11:57 remaining.
+Completed time 8:15:02 pm.
+Printing at Z=105.6.
+Bed 59.43/60.0, Extruder 210.04/210.0.
+97% done, 00:11:06 remaining.
+Completed time 8:15:16 pm.
+Printing at Z=107.0.
+Bed 59.56/60.0, Extruder 210.12/210.0.
+98% done, 00:07:13 remaining.
+Completed time 8:16:17 pm.
+Printing at Z=110.6.
+Bed 60.56/60.0, Extruder 209.92/210.0.
+98% done, 00:07:03 remaining.
+Completed time 8:16:20 pm.
+Printing at Z=110.0.
+Bed 60.19/60.0, Extruder 210.0/210.0.
+99% done, 00:03:07 remaining.
+Completed time 8:17:40 pm.
+Printing at Z=115.0.
+Bed 59.79/60.0, Extruder 209.96/210.0.
+99% done, 00:02:58 remaining.
+Completed time 8:17:44 pm.
+Printing at Z=114.6.
+Bed 59.62/60.0, Extruder 210.0/210.0.
